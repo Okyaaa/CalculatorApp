@@ -10,4 +10,5 @@
     <color name="blue">#79D6F3</color>
     <color name="orange">#F37979</color>
     <color name="gray">#F6F6F6</color>
+    <color name="background">#F9F9F9</color>
 </resources>
