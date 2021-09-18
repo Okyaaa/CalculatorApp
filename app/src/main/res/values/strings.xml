@@ -19,6 +19,7 @@
     <string name="negatif"> &#8722; </string>
     <string name="point"> &#8729; </string>
     <string name="equals"> &#61; </string>
-    <string name="factorial"> X! </string>
+    <string name="factorial"> x! </string>
+    <string name="display"> </string>
 
 </resources>
